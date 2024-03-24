@@ -1,0 +1,25 @@
+:root{
+    --heading-color : rgba(10, 9, 9, 0.651);
+}
+
+input{
+    padding: 5px;
+    width: 400px;
+    margin:10px;
+}
+
+img{
+    width: 70%;
+}
+
+ .btn1{
+    width: 400px;
+    /* padding: 5px; */
+    /* margin: 10px; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.text-orange{
+    color: orangered;    
+}
